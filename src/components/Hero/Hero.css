@@ -1,0 +1,50 @@
+.hero{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:100px 80px;
+}
+
+.hero-left{
+    width:55%;
+}
+
+.hero-left h1{
+    font-size:60px;
+    line-height:1.2;
+}
+
+.hero-left p{
+    margin-top:25px;
+    font-size:22px;
+    color:gray;
+    line-height:1.6;
+}
+
+.buttons{
+    margin-top:40px;
+    display:flex;
+    gap:20px;
+}
+
+.report{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:16px 28px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.learn{
+    border:2px solid #2563eb;
+    background:white;
+    color:#2563eb;
+    padding:16px 28px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.hero-right{
+    font-size:180px;
+}

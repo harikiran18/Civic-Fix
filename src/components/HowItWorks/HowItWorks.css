@@ -1,0 +1,38 @@
+.how{
+    padding:100px 80px;
+    background:white;
+    text-align:center;
+}
+
+.how h2{
+    font-size:42px;
+    margin-bottom:60px;
+}
+
+.cards{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+}
+
+.card{
+    width:300px;
+    padding:40px;
+    background:#f8fafc;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.icon{
+    font-size:60px;
+}
+
+.card h3{
+    margin-top:20px;
+    margin-bottom:15px;
+}
+
+.card p{
+    color:gray;
+    line-height:1.6;
+}

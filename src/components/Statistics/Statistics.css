@@ -1,0 +1,10 @@
+.stats{
+    margin-top: 100px;
+    background:#2563eb;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding:80px 40px;
+    text-align:center;
+}
